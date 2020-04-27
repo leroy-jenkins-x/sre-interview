@@ -51,3 +51,7 @@ Think: monitoring tools, logs, what if it's still down 15 minutes later (who's y
 Caching in relation to databases? What techniques do you know?
 
 What's a `fillfactor` ?
+
+Transaction?
+
+Isolation Levels?
