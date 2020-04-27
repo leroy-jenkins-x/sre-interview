@@ -31,9 +31,6 @@ How composite index works? Which indexes do you need for the following queries:
 WHERE user_id = 10
 ```
 ```sql
-WHERE address_id = 5
-```
-```sql
 WHERE user_id > 5
 ```
 ```sql
