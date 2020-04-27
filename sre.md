@@ -18,3 +18,5 @@ What definitely will not work for docker but works VM?
 Kind of an obvious question, but people still like to ask it. You cannot run windows on Linux docker! 
 Kernel is shared between containers and the host system, so you cannot run anything that won't be supported 
 by the host system.   
+
+Explain sidecar, ambassador, adapter patterns
