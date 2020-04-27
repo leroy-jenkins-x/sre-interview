@@ -47,3 +47,5 @@ sharding, partitioning
 
 
 What's is an execution plan?
+
+You get an alert that production database is down. Give a step-by-step of what do you do?
