@@ -9,7 +9,7 @@ of questions is exhaustive. Additionally, there are no answers here
 for given questions, except maybe a couple of 
 [pointers](https://en.wikipedia.org/wiki/Pointer_(computer_programming)) to get you started. 
 
-You can find questions about:
+Here you can find questions about:
 - [Databases](#databases)
 - [Systems Design](#systems-design)
 - [Network](#network)
@@ -19,9 +19,9 @@ You can find questions about:
 - [Brain Teasers](#brain-teasers)
 
 Depending on the position you are aiming for you might want to focus on some areas more than others.
-Mostly this list is aimed at SRE positions, but it's pretty good for developers as well.
-With some of the questions it's very hard to categorize them, so don't be shy to look at other sections
-even if you think it's not related to you. I promise it will improve your understanding.
+Mostly this list is aimed at SRE position, but it's pretty good for developers as well.
+Don't be shy to look at other sections even if you think it's not unrelated. 
+I promise it will improve your understanding.
 Without further ado, let's get started!
 
 # Databases
