@@ -22,3 +22,6 @@ by the host system.
 Explain sidecar, ambassador, adapter patterns
 
 Which deployment strategies do you know?
+
+SLO\SLA, Error Budgets ?
+https://landing.google.com/sre/workbook/chapters/error-budget-policy/
