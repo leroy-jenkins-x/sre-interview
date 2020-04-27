@@ -19,7 +19,9 @@ You can find questions about:
 - [Brain Teasers](#brain-teasers)
 
 Depending on the position you are aiming for you might want to focus on some areas more than others.
-Mostly this list is aimed at SRE positions, but it's pretty good for developers as well. 
+Mostly this list is aimed at SRE positions, but it's pretty good for developers as well.
+With some of the questions it's very hard to categorize them, so don't be shy to look at other sections
+even if you think it's not related to you. I promise it will improve your understanding.
 Without further ado, let's get started!
 
 # Databases
@@ -44,4 +46,5 @@ Without further ado, let's get started!
 {% include_relative teasers.md %}
 
 # Contribute
-You are welcome to contribute to this repository. Just open a PR on [GitHub](https://github.com/leroy-jenkins-x/sre-interview)
+You are welcome to contribute to this repository. 
+Just open a PR on [GitHub](https://github.com/leroy-jenkins-x/sre-interview)
