@@ -28,7 +28,6 @@ Welcome to a collection of questions for interviews. By no means it is exhaustiv
 {% include_relative unix.md %}
 
 
-
 # Brain Teasers
 {% include_relative teasers.md %}
 
