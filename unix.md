@@ -33,10 +33,6 @@ What is a namespace?
 https://www.youtube.com/watch?v=-YnMr1lj4Z8
 
 
-what is definitely will not work for docker but works VM
-you cannot run windows on docker!
-
-
 cat proc meminfo (the more you can interpret the results the better)
 buffers, residential memory (it's where the processes live, if this memory is free, but everything else is 100% then we are OK)
 how to monitor memory, what if it's more than 95% occupied.
