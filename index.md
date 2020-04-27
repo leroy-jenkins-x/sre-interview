@@ -20,7 +20,7 @@ Welcome to a collection of questions for interviews. Here you can find questions
 {% include_relative programming.md %}
 
 
-# Site Reliability Engineering
+# SRE
 {% include_relative sre.md %}
 
 
