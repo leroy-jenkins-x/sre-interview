@@ -25,7 +25,6 @@ Production database is down, what do you do?
 maintenance of the database 
 order history (clean, offload), empty old cart,
 
-
 How composite index works? Which indexes do you need for the following queries:
 ```sql
 WHERE user_id = 10
@@ -39,9 +38,7 @@ WHERE user_id = 10 AND address_id = 5
 
 slow logs, slow queries, 
 
-
 sharding, partitioning
-
 
 What's an execution plan?
 
