@@ -20,3 +20,5 @@ Kernel is shared between containers and the host system, so you cannot run anyth
 by the host system.   
 
 Explain sidecar, ambassador, adapter patterns
+
+Which deployment strategies do you know?
