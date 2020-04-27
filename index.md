@@ -13,7 +13,7 @@ You can find questions about:
 - [Unix](#unix)
 - [Brain Teasers](#brain-teasers)
 
-Depending on the position you are aiming for you might want to focus on specific areas more. Without further ado, let's get started!
+Depending on the position you are aiming for you might want to focus on some areas more than others. Without further ado, let's get started!
 
 # Databases
 {% include_relative databases.md %}
