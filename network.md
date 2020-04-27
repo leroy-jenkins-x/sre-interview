@@ -8,11 +8,9 @@ Router/Switch ?
 What happens when I type google.com in the browser?
 https://github.com/alex/what-happens-when
 
-What's a DNS? 
+What's a DNS? Can DNS use TCP?
 
-Can DNS use TCP?
-
-how BGP works? What Can you form the problem as a graph?
+How BGP works? What Can you form the problem as a graph?
 https://www.youtube.com/watch?v=O6tCoD5c_U0
 
 DHCP? which protocol it uses ?
