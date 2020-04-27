@@ -26,7 +26,12 @@ maintenance of the database
 order history (clean, offload), empty old cart,
 
 
-how composite index works?
+How composite index works? What indexes do you need for the following queries:
+```sql 
+WHERE user_id = 10
+```
+`WHERE address_id = 5`
+`WHERE user_id = 10 AND address_id = 5`
 
 
 slow logs, slow queries, 
