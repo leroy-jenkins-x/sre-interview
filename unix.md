@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=fLS99zJDHOc
 What's an inode? symlink vs hardlink
 https://www.youtube.com/watch?v=tMVj22EWg6A
 
+explain what is stored in inode, how is it organized?
+
 ext4 layout, what is a file, block size,
 
 hardlink cross system, you connected another disk - can you hardlink to a file on that disk?
