@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to a collection of questions for interviews. Here you can find questions that I found by browsing internet or come up myself while researchign the topic. By no means it is exhaustive. Additionally, there are no answers here for given questions, except maybe a couple of [pointers](https://en.wikipedia.org/wiki/Pointer_(computer_programming)) to get you started. 
+Welcome to a collection of questions for technical interviews. Here you can find questions that I found by browsing internet or come up myself while researching the topic. By no means this list of questions is exhaustive. Additionally, there are no answers here for given questions, except maybe a couple of [pointers](https://en.wikipedia.org/wiki/Pointer_(computer_programming)) to get you started. 
 
 You can find questions about:
 - [Databases](#databases)
@@ -13,7 +13,7 @@ You can find questions about:
 - [Unix](#unix)
 - [Brain Teasers](#brain-teasers)
 
-
+Depending on the position you are aiming for you might want to focus on specific areas more. Without further ado, let's get started!
 
 # Databases
 {% include_relative databases.md %}
