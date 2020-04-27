@@ -19,7 +19,7 @@ Here you can find questions about:
 - [Brain Teasers](#brain-teasers)
 
 Depending on the position you are aiming for you might want to focus on some areas more than others.
-Mostly this list is aimed at SRE position, but it's pretty good for developers as well.
+Mostly this list is aimed at an Architect position, but it's pretty good for SREs and developers as well.
 Don't be shy to look at other sections even if you think it's not unrelated. 
 I promise it will improve your understanding.
 Without further ado, let's get started!
