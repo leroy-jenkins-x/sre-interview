@@ -43,7 +43,7 @@ slow logs, slow queries,
 sharding, partitioning
 
 
-What's is an execution plan?
+What's an execution plan?
 
 You get an alert that production database is down. Give a step-by-step of what do you do?
 Think: monitoring tools, logs, what if it's still down 15 minutes later (who's you on-call backup)  
