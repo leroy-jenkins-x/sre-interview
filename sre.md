@@ -1,5 +1,3 @@
-
-# SRE
 how CPU works?
 https://www.youtube.com/watch?v=6jSKldt7Eqs
 

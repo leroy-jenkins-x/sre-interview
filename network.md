@@ -1,4 +1,3 @@
-## Network questions
 TCP Basics:
 https://www.youtube.com/watch?v=0EHo0HsTKJw
 TCP/UDP ?

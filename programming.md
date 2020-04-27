@@ -1,4 +1,3 @@
-# Programming 
 ## What is a pointer ? What's a void* ? What's a double pointer?
 https://www.youtube.com/watch?v=DTxHyVn0ODg
 

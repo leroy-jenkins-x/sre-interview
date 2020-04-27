@@ -1,4 +1,3 @@
-## Databases
 How to split a large table in production that is constantly used?
 Lock? Deadlock? 8KB Page? What's deadlock graph?
 Mirroring? Replication?
@@ -12,7 +11,7 @@ How hadoop works?
 What's ODBC?
 Production database is down, what do you do?
 
-maintenance database 
+maintenance of the database 
 order history (clean, offload), empty old cart,
 
 
