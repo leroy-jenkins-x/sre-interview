@@ -13,4 +13,3 @@ What's a page? WHy is 8KB? When do I want to change it?
 https://en.wikipedia.org/wiki/Page_(computer_memory)
 
 how CDN works?
-

@@ -48,4 +48,3 @@ caches - normally operation OS, where are they coming from?
 what is a descriptor 
 
 page cache https://en.wikipedia.org/wiki/Page_cache this is how you read from file
-
