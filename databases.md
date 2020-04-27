@@ -16,8 +16,6 @@ DWH? Different database schemas?
 
 Type of backups?
 
-How hadoop works?
-
 What's ODBC?
 
 Production database is down, what do you do?
