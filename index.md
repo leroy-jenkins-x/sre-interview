@@ -10,10 +10,10 @@ for given questions, except maybe a couple of
 [pointers](https://en.wikipedia.org/wiki/Pointer_(computer_programming)) to get you started. 
 
 Here you can find questions about:
+- [Programming](#programming)
 - [Databases](#databases)
 - [Systems Design](#systems-design)
 - [Network](#network)
-- [Programming](#programming)
 - [SRE](#sre)
 - [Unix](#unix)
 - [Brain Teasers](#brain-teasers)
@@ -24,6 +24,9 @@ Don't be shy to look at other sections even if you think it's not unrelated.
 I promise it will improve your understanding.
 Without further ado, let's get started!
 
+# Programming
+{% include_relative programming.md %}
+
 # Databases
 {% include_relative databases.md %}
 
@@ -32,9 +35,6 @@ Without further ado, let's get started!
 
 # Network
 {% include_relative network.md %}
-
-# Programming
-{% include_relative programming.md %}
 
 # SRE
 {% include_relative sre.md %}
