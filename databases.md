@@ -50,3 +50,5 @@ What's is an execution plan?
 
 You get an alert that production database is down. Give a step-by-step of what do you do?
 Think: monitoring tools, logs, what if it's still down 15 minutes later (who's you on-call backup)  
+
+Caching in relation to databases? What techniques do you know?
