@@ -2,9 +2,35 @@
 layout: default
 ---
 
-some text here
+Welcome to a collection of questions for interviews. By no means it is exhaustive. Additionally, there are no answers here for given questions, except maybe a couple of [pointers](https://en.wikipedia.org/wiki/Pointer_(computer_programming)) to get you started. 
+
+# Databases
+{% include_relative databases.md %}
 
 
-{% include_relative systems_design.md %}
+# Systems Design
+{% include_relative design.md %}
 
-some more text here
+
+# Network
+{% include_relative network.md %}
+
+
+# Programming
+{% include_relative programming.md %}
+
+
+# Site Reliability Engineering
+{% include_relative sre.md %}
+
+
+# Unix
+{% include_relative unix.md %}
+
+
+
+# Brain Teasers
+{% include_relative teasers.md %}
+
+
+
