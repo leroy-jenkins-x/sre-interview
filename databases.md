@@ -52,3 +52,10 @@ Transaction?
 Isolation Levels?
 
 What's a cluster? Quorum?
+
+How can you make a fault tolerance database?
+
+High availability of databases?
+
+NOSQL vs SQLPerformance Tuning?
+

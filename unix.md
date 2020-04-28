@@ -46,3 +46,20 @@ caches - normally operation OS, where are they coming from?
 what is a descriptor 
 
 page cache https://en.wikipedia.org/wiki/Page_cache this is how you read from file
+
+RAIDs?
+
+Difference between application servers and web servers?
+
+caching, paging, disadvantages of caching.
+
+LRU?
+
+virtual memory?
+ 
+Paging, [thrashing](https://en.wikipedia.org/wiki/Thrashing_(computer_science))?
+
+How does filesystem work?
+
+Why can you type in the terminal when previous command is still executing? And why it later executes your commands?
+
