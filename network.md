@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=O6tCoD5c_U0
 
 DHCP? which protocol it uses ?
 
-OSI model, examples?
+OSI model, examples? Describe what happens at level 2, level 4
 
 what is the difference between port and socket?
 https://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket

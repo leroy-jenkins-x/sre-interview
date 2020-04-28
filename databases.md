@@ -50,3 +50,5 @@ What's a `fillfactor` ?
 Transaction?
 
 Isolation Levels?
+
+What's a cluster? Quorum?
