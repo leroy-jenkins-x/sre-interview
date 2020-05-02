@@ -46,6 +46,13 @@ You have a system with limited memory, and you have to read a file and then depe
 you need to pass the info to other nodes how will you do it. You can't load the whole input file in memory at once.
 Modified the question: the file is a stream of words (one word per line) you need to sort the words.
 
+What’s an SPF record?
+An SPF record is a Sender Policy Framework record. 
+It’s used to indicate to mail exchanges which hosts are authorized to send mail for a domain.
+
+
+
+
 ### Extra
 4 golden sign of API health monitoring google
 
